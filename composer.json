@@ -1,0 +1,40 @@
+{
+  "name": "niltonmelox/gmail-api-easy",
+  "description": "Laravel 5.* wrapper easy for the API Gmail",
+  "keywords": [
+    "laravel",
+    "gmail"
+  ],
+  
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Martijn Wagena",
+      "email": "martijn@wagena.com",
+      "homepage": "http://www.beeproger.com"
+    },
+     {
+      "name": "Nilton Melo",
+      "email": "niltonmeloba@hotmail.com",
+      "homepage": "https://niltonmelox.github.io/"
+    }
+  ],
+  "require": {
+    "illuminate/support": "5.0.*|5.1.*|5.2.*|5.3.*|5.4.*",
+    "google/apiclient": "^2.0",
+    "nesbot/carbon": "^1.22",
+    "swiftmailer/swiftmailer": "^5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "NiltonMeloX\\GmailApiEasy\\Gmail\\": "src"
+    }
+  },
+  "require-dev": {
+    "php": ">=5.5.9"
+  },
+  "autoload-dev": {
+    "psr-4": {
+    }
+  }
+}
