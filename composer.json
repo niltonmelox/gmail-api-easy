@@ -1,10 +1,10 @@
 {
   "name": "niltonmelox/gmail-api-easy",
   "description": "Laravel 5.* wrapper easy for the API Gmail",
+  "homepage": "https://github.com/niltonmelox/gmail-api-easy",
   "keywords": [
     "laravel",
-    "gmail",
-    "homepage": "https://github.com/niltonmelox/gmail-api-easy"
+    "gmail"
   ],
   
   "license": "MIT",
